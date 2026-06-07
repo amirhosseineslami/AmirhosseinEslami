@@ -1,13 +1,15 @@
+# Amirhossein Eslami 👋
+
 ### Electrical & Control Engineering • AI & Robotics • Research-Oriented Engineer
 
 I'm an Electrical Engineering (Control) student at **Iran University of Science and Technology (IUST)** with interests in:
 
-* 🤖 Robotics & Autonomous Systems
-* 🧠 Artificial Intelligence & Machine Learning
-* ⚙️ Control Systems & Optimization
-* 👁️ Computer Vision
-* 📊 Data Science & Analytics
-* 🌍 Intelligent Engineering Solutions
+* 🤖 Robotics & Autonomous Systems  
+* 🧠 Artificial Intelligence & Machine Learning  
+* ⚙️ Control Systems & Optimization  
+* 👁️ Computer Vision  
+* 📊 Data Science & Analytics  
+* 🌍 Intelligent Engineering Solutions  
 
 Currently working on **Decentralized and Safe Formation Control for Differential-Drive Mobile Robots with Minimal Sensing**, while exploring how AI can enhance autonomy, decision-making, and real-world engineering systems.
 
@@ -15,12 +17,12 @@ Currently working on **Decentralized and Safe Formation Control for Differential
 
 ### Current Interests
 
-* Reinforcement Learning
-* Multi-Agent Systems
-* Autonomous Robotics
-* Computer Vision
-* Intelligent Control
-* Data-Driven Engineering
+* Reinforcement Learning  
+* Multi-Agent Systems  
+* Autonomous Robotics  
+* Computer Vision  
+* Intelligent Control  
+* Data-Driven Engineering  
 
 ---
 
@@ -45,38 +47,38 @@ Currently working on **Decentralized and Safe Formation Control for Differential
 
 ### Selected Experience
 
-🔹 Research & Data Assistant — Lotus Futurists
+🔹 Research & Data Assistant — Lotus Futurists  
 
-🔹 Computer Vision Research Intern — CVLab, IUST
+🔹 Computer Vision Research Intern — CVLab, IUST  
 
-🔹 Teaching Assistant — Artificial Intelligence, Industrial Control Lab, Programming
+🔹 Teaching Assistant — Artificial Intelligence, Industrial Control Lab, Programming  
 
-🔹 Founder & Host — EnglishConvey
+🔹 Founder & Host — EnglishConvey  
 
 ---
 
 ### Connect
 
-🌐 Portfolio: https://about.me/amirhosseineslami
+🌐 Portfolio: [https://about.me/amirhosseineslami](https://about.me/amirhosseineslami)  
 
-💼 LinkedIn: https://www.linkedin.com/in/amir-hossein-eslami
+💼 LinkedIn: [https://www.linkedin.com/in/amir-hossein-eslami](https://www.linkedin.com/in/amir-hossein-eslami)  
 
-📧 Email: [amirhossein.eslami.ac@gmail.com](mailto:amirhossein.eslami.ac@gmail.com)
+📧 Email: [amirhossein.eslami.ac@gmail.com](mailto:amirhossein.eslami.ac@gmail.com)  
 
 ---
 
 ### GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinEslami&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinEslami&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinEslami" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinEslami&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmirhosseinEslami&theme=flat&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmirhosseinEslami&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---

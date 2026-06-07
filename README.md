@@ -1,5 +1,3 @@
-# Amirhossein Eslami 👋
-
 ### Electrical & Control Engineering • AI & Robotics • Research-Oriented Engineer
 
 I'm an Electrical Engineering (Control) student at **Iran University of Science and Technology (IUST)** with interests in:
